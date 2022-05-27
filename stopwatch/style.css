@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+#content {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    font-size: 4rem; 
+}
+
+button {
+    width: 6rem;
+    height: 2.5rem;
+    border-radius: 4rem !important;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+#start {
+    margin-right: 1rem;
+}
+
+#stop {
+    margin-right: 1rem;
+}
